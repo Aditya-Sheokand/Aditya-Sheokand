@@ -20,5 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-sheokand&" alt="aditya-sheokand" /></p>
 
+[![An image of @adityasheokand's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityasheokand)](https://holopin.io/@adityasheokand)
+
 
 
